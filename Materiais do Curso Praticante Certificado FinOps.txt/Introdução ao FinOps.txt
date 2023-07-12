@@ -9,29 +9,14 @@ Este livro não é necessário para passar no teste ou concluir o curso, no enta
 
 Livro Cloud FinOps - Amazon
 
-Adquira uma cópia física ou versão kindle
-
-COMPRAR(ABRE EM UMA NOVA ABA)
-Cloud FinOps Book - acesso digital de 10 dias
-
-Acesso fornecido pela O'Reilly
-
-AVALIAÇÃO DIGITAL(ABRE EM UMA NOVA ABA)
-Terminologia FinOps
-
 Existem muitos termos e ferramentas específicas para FinOps. Utilize os recursos de terminologia abaixo ao longo do curso para apoiar seu aprendizado. 
 
 Terminologia FinOps
 
 Uma lista de terminologia e exemplos para as categorias Cloud Cost Management, Public Cloud, Software Development & Operations e Finance & Accounting.
 
-TERMOS FINOPS(ABRE EM UMA NOVA ABA)
-Ferramentas e terminologia multinuvem
 
 Uma matriz de ferramentas disponível para ajudar os profissionais de FinOps a aprender e praticar a utilização eficiente de recursos de nuvem, bem como terminologia e recursos adicionais.
-
-TERMOS DE VÁRIAS NUVENS(ABRE EM UMA NOVA ABA)
-Informações da organização
 
 Reúna informações sobre o uso da nuvem da sua  organização e os desafios da nuvem para usar ao longo deste curso. Abaixo estão algumas perguntas-chave para ajudá-lo a começar. 
 
