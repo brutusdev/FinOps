@@ -1,0 +1,64 @@
+DevOps e Nuvem
+
+CloudTools-1_200.png
+DevOps e Cloud quebraram a aquisição tradicional
+
+O DevOps permite que as empresas acelerem a entrega de tecnologia para atender à demanda do cliente usando a nuvem. Essa mudança colocou o poder de compra nas mãos dos desenvolvedores de uma forma que quebrou os processos tradicionais de aquisição. O DevOps e a cloud obrigaram à eliminação de constrangimentos que levaram à necessidade de um novo modelo operacional. Este novo modelo permite a tomada de decisão colaborativa e dá às empresas a capacidade de continuar a maximizar o valor do investimento em TI.  Essa é a premissa que levou ao desenvolvimento do FinOps. 
+
+Meu projeto (7).png
+DevOps & Cloud permitem que todos os custos sejam atribuídos aos proprietários
+
+O custo dos produtos vendidos para nossos produtos habilitados para TI e o custo por usuário de sistemas de suporte sempre dependeram de data centers e infraestrutura cujo custo é imutável. Os proprietários de produtos agora têm a capacidade de consumir serviços de TI na combinação exata e nos momentos exatos quando necessário. Os proprietários do produto também podem criar de forma que todos os custos possam ser examinados e levados em consideração nos processos de precificação, suporte e desenvolvimento ágil. A nuvem nos dá a capacidade de desenvolver aplicativos em arquiteturas que se adaptam adequadamente à demanda, combinando a oferta e a demanda de TI com mais eficácia do que nunca no data center. Ao mesmo tempo, melhorando nossa capacidade de comprar pequenos sistemas incrementais e escalar para alturas massivas.
+
+Meu projeto (4).png
+DevOps e nuvem oferecem oportunidades sem precedentes
+
+Aquisição e finanças agora têm a capacidade de ver gastos em tempo real, bem como granularidade e atribuição. Os líderes de tecnologia que anteriormente precisavam enfrentar a demanda de produtos, mudanças nas tendências tecnológicas e desafios de infraestrutura de data center, agora têm a capacidade de construir de forma incremental. Os engenheiros de DevOps, antes restritos a tudo o que a equipe de infraestrutura havia adquirido anteriormente dentro dos limites do data center, agora estão livres para considerar o uso de uma ampla – e crescente – seleção de tecnologias para atender a uma variedade de necessidades do cliente. E, mais importante para a organização, os engenheiros de DevOps têm o direito de comprar e usar apenas o que precisam em um determinado momento.
+
+Como desenvolvemos a capacidade de enfrentar esses desafios e aproveitar essas novas oportunidades?
+
+FinOps
+
+O novo modelo operacional para a nuvem
+
+Para muitas organizações, o FinOps é o novo modelo operacional para a nuvem. FinOps é a prática de reunir tecnologia, negócios e finanças para dominar a unidade econômica da nuvem para obter vantagem competitiva. Ele traz responsabilidade financeira para o modelo de gasto variável da nuvem.
+
+O Cloud FinOps é uma disciplina e prática cultural de gerenciamento financeiro em nuvem em evolução.
+
+Frente do cartão
+Sem texto alternativo de imagem
+Clique para virar
+Verso do cartão
+O FinOps permite que as organizações obtenham o máximo valor comercial
+
+
+Clique para virar
+Frente do cartão
+Sem texto alternativo de imagem
+Clique para virar
+Verso do cartão
+...ajudando as equipes de engenharia, finanças e negócios
+
+
+Clique para virar
+Frente do cartão
+Sem texto alternativo de imagem
+Clique para virar
+Verso do cartão
+...para colaborar em decisões de gastos baseadas em dados.
+
+
+Clique para virar
+Criando uma cultura de responsabilidade
+
+O FinOps cria uma cultura de responsabilidade ao oferecer suporte às equipes de produtos, finanças e negócios para colaborar e tomar decisões em tempo real relacionadas a compensações entre custo, velocidade e qualidade. Isso impulsiona decisões que aumentam o valor comercial para aumentar a eficiência e alinhar melhor os custos às necessidades comerciais, além de melhorar a previsão dos custos da nuvem.
+
+Uso e metas da nuvem
+
+Os profissionais geralmente relatam esses motivos pelos quais estão usando ou migrando para a nuvem.
+Os profissionais geralmente relatam esses motivos pelos quais estão usando ou migrando para a nuvem.
+
+Antes de seguir em frente...
+
+Pense por que sua organização está usando ou migrando para a nuvem
+Considere o que você está tentando alcançar usando a nuvem
