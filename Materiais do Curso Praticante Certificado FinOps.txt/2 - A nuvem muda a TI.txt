@@ -62,3 +62,39 @@ Antes de seguir em frente...
 
 Pense por que sua organização está usando ou migrando para a nuvem
 Considere o que você está tentando alcançar usando a nuvem
+
+O desafio da nuvem
+Onde começamos
+
+Play Video
+Consumo de Tecnologia Tradicional
+
+Tradicionalmente, as empresas tinham uma equipe de plataforma que sonhava em obter algum hardware para construir seu aplicativo, então iam para a aquisição. A área de compras revisou seu complexo caso de negócios e, se suficiente, deu-lhes acesso ao dinheiro.
+
+Neste modelo...
+
+DevOps, ou desenvolvedores, são os solicitantes
+Finanças são os porteiros, os aprovadores
+O gasto é previsível e estático, com custos conhecidos
+Há longos ciclos de compras
+A infraestrutura adquirida geralmente é intencionalmente superdimensionada e não tem certeza de estar correta
+Há alto risco de algum nível de falha a um custo alto
+TTC 1.gif
+Para complicar ainda mais as coisas, em um mundo DevOps, há muitas equipes trabalhando ao mesmo tempo e as solicitações de tecnologia estão se tornando mais complexas. Agora, apresente o mundo da nuvem e da automação, onde o procurement não consegue acompanhar ou não é necessário para fazer compras. Isso leva a empresas onde engenheiros com automação vão diretamente para o dinheiro. Compras e finanças estão perdendo o controle do investimento e a capacidade de rastreá-lo ao longo do tempo. Isso significa que eles não podem cumprir seu dever fiduciário para com a empresa de controlar e relatar corretamente os custos!
+
+A nuvem muda a dinâmica...
+
+Os engenheiros agora têm o poder de gastar o dinheiro da empresa com código
+O setor financeiro tem menos visibilidade dos gastos até depois do fato e não pode cumprir seu dever fiduciário para com a empresa
+O gasto é dinâmico e muda diariamente
+Há experimentação ágil e algum desperdício
+Em geral, há uma falta de comunicação
+TTC 2.gif
+Estado de FinOps
+
+Abaixo estão os maiores pontos problemáticos não resolvidos para as organizações, reunidos em 1.056 respostas na Pesquisa State of FinOps de 2022.
+
+Pain Points@2x.png
+Pesquisa do estado de FinOps
+
+Os dados do State of FinOps podem ser encontrados em data.FinOps.org(abre em uma nova aba). Esses dados serão referenciados ao longo do curso para ilustrar pontos e fornecer uma maneira de aprofundar o conteúdo do praticante. Vemos em nossa pesquisa de 2022 que vários dos desafios relatados como difíceis para os profissionais de FinOps são os que discutimos: adoção organizacional, alinhamento de equipes, contabilização de custos de nuvem. Falaremos sobre os outros desafios mais adiante no curso.
