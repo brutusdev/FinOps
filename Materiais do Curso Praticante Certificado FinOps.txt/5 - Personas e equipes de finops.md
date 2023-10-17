@@ -340,3 +340,72 @@ Gestão de Riscos: Iniciativas de sustentabilidade podem reduzir a exposição a
 Previsibilidade: as práticas de FinOps envolvem previsão, monitoramento e otimização do uso de recursos, ao mesmo tempo que impulsionam eficiências de carbono alinhadas com as metas de sustentabilidade
 Alinhamento Estratégico: Profissionais de FinOps e equipes de Sustentabilidade colaboram para alcançar metas compartilhadas destinadas a maximizar a eficiência da nuvem, o valor comercial e as metas de sustentabilidade
 
+## Equipes
+
+### Uma equipe FinOps
+
+Para que uma organização adote a nuvem com sucesso, adote os princípios de FinOps, gere melhores práticas e satisfaça as necessidades do conjunto diversificado de partes interessadas, ela precisa de uma equipe de FinOps. A equipe de FinOps não é um guardião, mas um facilitador que traz um conjunto único de habilidades e informações para a organização para ajudá-la a adotar uma cultura de FinOps e gerar valor com mais sucesso a partir do uso da nuvem.
+
+### As principais ações de uma equipe FinOps
+
+#### Impulsione a responsabilidade por toda a organização
+
+FinOps exige que estendamos a responsabilidade até os limites da organização, onde agora reside o compromisso de compra. As equipes de FinOps capacitam as equipes de recursos e produtos para gerenciar seu próprio uso da nuvem de acordo com seu orçamento. Observe que cada persona não precisa observar tudo, a equipe de FinOps pode se concentrar em fornecer informações selecionadas para atender às necessidades de uma persona.
+
+### Otimização Centralizada de Taxas e Descontos
+
+A própria equipe FinOps governa e controla centralmente: descontos por uso contínuo, instâncias reservadas, planos de poupança e descontos por volume/personalizados com provedores de nuvem (princípio FinOps: uma equipe centralizada conduz FinOps). 
+
+A equipe de FinOps está analisando o consumo macro por regiões e tipos de instância e terá insights sobre o desenvolvimento de produtos e o planejamento estratégico executivo. Este é um trabalho específico que os próprios indivíduos de uma equipe de FinOps realizam analisando, obtendo aprovação de compromisso, autorização de aquisição e execução.
+
+## Construindo uma equipe FinOps
+
+As equipes de FinOps são tão diversas quanto as estruturas organizacionais da empresa e parece não haver uma maneira única de construir ou administrar uma equipe de FinOps. Aqui estão algumas perguntas importantes a serem feitas ao começar.
+
+
+Quem deve fazer parte de uma equipe FinOps? 
+Que funções devemos procurar?
+Quantas pessoas devem fazer parte de uma equipe FinOps?
+Onde a equipe de FinOps deve reportar no organograma?
+Quais são as barreiras à eficácia?
+
+## Exemplos de estrutura de equipe
+
+
+1 A maioria das equipes de FinOps começa com alguém em meio período que desempenha outras funções e depois evolui a partir daí.
+
+
+2 Numa organização menos complexa, uma equipa dedicada pode ser o ponto central para todas as atividades.
+
+3 Numa organização mais complexa, ou que tenha casos de utilização inconsistentes entre unidades de negócio, uma organização totalmente matricial pode ser um modelo melhor, dando mais autonomia a cada unidade. Por exemplo, este pode ser um bom modelo para uma empresa de capital privado que espera que cada unidade seja comprada ou vendida de forma independente e pretende apenas uma coordenação frouxa entre elas.
+
+
+4 A Fidelity fala publicamente sobre sua estrutura de equipe “hub and spoke”, que tem cada uma de suas seis unidades de negócios (BU) que usam nuvem em grande escala contribuindo com uma pessoa para uma equipe principal. Esta equipe principal desempenha a função de FinOps para a organização como um todo (compras centrais de RI, etc.) e então essas pessoas também representam e promovem FinOps dentro de sua BU. Eles têm credibilidade de longo prazo, um conhecimento profundo das necessidades específicas da unidade de negócios (todas com casos de uso de nuvem muito diferentes) e podem impulsionar isso com seus usuários. A equipe centralizada de FinOps tem uma compreensão compartilhada de FinOps, seu valor para a organização como um todo e os benefícios das funções compartilhadas para a empresa como um todo.
+
+## Dados sobre o estado dos FinOps: equipes
+
+O relatório da pesquisa State of FinOps(abre em uma nova aba)pretende ser um instantâneo vivo da indústria. Continuamos coletando respostas adicionais de nossos membros e atualizando este relatório à medida que novos insights chegam.
+
+Funções.png
+Em 2019, os membros do FinOps identificaram as seguintes funções comuns que existiam nas equipes do FinOps.
+
+Nossa análise também mostra que as equipes estão crescendo 47% em relação ao ano passado e esperam crescer 75% no próximo ano.
+
+Tamanho da equipe.png
+O tamanho da equipe parece depender da complexidade do uso da nuvem (US$ 10 milhões por ano em um produto SaaS é mais fácil do que US$ 5 milhões por ano em 50 aplicativos) e da complexidade da empresa (multi-BU, multinacional, dezenas de aplicativos, cinco níveis de gerenciamento, todos complica as coisas).
+
+Na maioria das vezes, o FinOps fica onde o problema começou em uma organização e deve então se mover para onde quer que esteja o ponto de coordenação para continuar a fazê-lo.
+
+Relatório.png
+Localização da
+equipe FinOps
+Prós e contras
+CIO
+Pode ter mais influência junto aos engenheiros; pode não estar totalmente alinhado com as finanças, quem observa os observadores
+Diretor Financeiro	Pode estar excessivamente focado na redução de custos, pode não ter o apoio de engenheiros
+Compras	Pode ser muito baixo na organização para ser eficaz, pode ter a melhor visão de todos os caminhos para redução de custos, mentalidade correta
+Finanças de TI	Pode não ter as habilidades ou experiência para pensar amplamente sobre tópicos financeiros, pode estar mais próximo das equipes de engenharia
+CEO	Este deve ser um esforço cooperativo, não restringido de cima para baixo, mas um foco e uma pressão de alto nível podem torná-lo eficaz imediatamente.
+Iniciativa Estratégica	Em última análise, a nuvem e o FinOps são procedimentos operacionais padrão, portanto, se for estratégico, planeje encontrar um local permanente para isso em breve
+CTO	Preocupe-se com o FinOps, parecendo que se trata de coisas novas, mudanças tecnológicas e, novamente, procure um lar permanente
+Clique em Avançar no canto inferior direito para passar para o próximo módulo.
