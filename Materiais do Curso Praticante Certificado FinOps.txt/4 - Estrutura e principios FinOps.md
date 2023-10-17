@@ -108,7 +108,7 @@ Uma equipe centralizada impulsiona FinOps
 bala
 Aproveite o modelo de custo variável da nuvem
 
-****Os Princípios FinOps
+### Os Princípios FinOps
 
 As equipes precisam colaborar
 FinOps trata de mudança cultural: quebrar os silos entre equipes que historicamente não trabalharam juntas. A colaboração é a marca registrada do FinOps. As equipes devem trabalhar juntas quase em tempo real, pois a nuvem opera por recurso por segundo. A melhoria contínua e a rapidez na tomada de decisões são necessárias e a colaboração é o motor da prática de FinOps.
