@@ -250,3 +250,84 @@ Análise de dados e showback é a capacidade de aproveitar dados, juntamente com
 #### Alocação justa de custos em uma plataforma compartilhada
 
 Este artigo fornece uma visão geral da configuração, dos objetivos e da história da alocação justa de custos em uma plataforma compartilhada.
+
+### Contas, taxonomia e tags
+
+Agora que sabemos o que são Showback e Chargeback, como produzimos relatórios a partir de nossa enorme pilha de dados na nuvem?   Usaremos diversas técnicas de alocação/atribuição de custos envolvendo:
+
+
+bala
+Uma estrutura/taxonomia significativa de identificadores e metadados que nos permite dividir nossos custos de forma significativa. Isso é muito específico para o seu negócio: como você chama as coisas? Como você chama suas divisões? Seus centros de custo? Seus departamentos? Seus segmentos de lucros e perdas? etc. 
+
+
+bala
+Contas AWS/Assinaturas do Azure ou Grupos de Recursos/Projetos GCP são os blocos de construção da organização em cada um dos provedores de nuvem que são necessários e fornecem um limite concreto de custo (e outras coisas)
+
+
+bala
+Tags, rótulos e outros metadados são usados ​​para aplicar e associar os valores de taxonomia aos recursos ou hierarquia de recursos que você está realmente executando
+
+Você usará uma combinação de todas essas estruturas/métodos para realizar sua tarefa de alocação de custos. 
+
+Termos
+
+Dentro da FinOps Foundation, somos neutros em termos de fornecedor, por isso usamos termos genéricos para algumas dessas coisas. No restante desta lição, " conta " será usada para representar a hierarquia de recursos e " tags " serão usadas para representar metadados de alocação de custos.
+
+Termo genérico	Termos Específicos
+Hierarquia de recursos : contas, assinaturas, grupos de contas, projetos, pastas
+Metadados de Alocação de Custos: metadados, tags, rótulos
+
+### Métodos
+
+As organizações muitas vezes optam por alocar custos principalmente por conta, especialmente no início, porque é fácil de entender para todos. Todos os custos aparecem em uma conta, até mesmo os recursos que não podem ser marcados. 
+
+Eventualmente, haverá contas que serão usadas para diversos fins. Então você precisará marcar as coisas. Em muitos casos, você também pode marcar a hierarquia de recursos. Ao marcar recursos individuais, você os identifica de maneiras que usará para filtrar relatórios de showback, estorno e ad hoc posteriormente.
+
+Você não pode definir antecipadamente todo o seu plano de hierarquia de recursos e estratégia de metadados. Você pode reservar um tempo e evoluí-los conforme avança. Lembre-se, você não é o único interessado aqui, CCOE, Plataforma, Engenharia, Segurança, etc. Todos eles têm interesse em hierarquia e metadados.
+
+A alocação baseada em contas é o método mais poderoso de divisão de custos. Grupos de gerenciamento do Azure, organizações da AWS e pastas GCP multicamadas tornam isso ainda mais fácil de gerenciar. Como sua taxonomia é dividida? 
+
+### Tags e rótulos
+
+Tags ou rótulos usados ​​para alocação de custos podem precisar ser habilitados ou você pode precisar conceder acesso a eles para usá-los em relatórios downstream (Tags de alocação de custos na AWS, permissões de IAM necessárias para visualizar rótulos no GCP, etc.). Ou talvez você precise criar ou aumentar seus dados de custo e uso da nuvem com ferramentas de terceiros ou outros conjuntos de dados disponíveis em sua organização (ou seja, um CMDB de centros de custo e seus proprietários). Clique em cada ícone de informações abaixo para saber mais.
+
+Existem muitas tags; muitos são tão debilitantes quanto poucos. Embora as tags sejam necessárias por vários motivos (operacionais, de desenvolvimento, financeiros, gestão de equipe, etc.), a FinOps está interessada especificamente nas tags que nos permitem alocar custos consistentes com as necessidades da empresa. As tags podem estar no nível do recurso, no nível do grupo de recursos, no nível da conta ou no nível sintético (aplicadas após o faturamento ser feito). Certas tags são apropriadas para cada nível. 
+
+Existem algumas coisas que não podem ser marcadas.
+
+Os fornecedores de nuvem estão constantemente adicionando coisas, mas também lançando coisas que não podem ser marcadas
+
+Algumas coisas têm bits marcáveis ​​e bits não marcáveis ​​(taxas de dados associadas a uma instância EC2)
+
+Algumas coisas só podem ser marcadas depois que você as cria 
+
+Algumas coisas só podem ser marcadas por meio do SDK/API/CLI e não por meio do console
+
+Etiquetas 123.png
+Etiqueta abc.png
+A conformidade com as tags atingirá a todos em um momento ou outro.
+
+Avalie a conformidade das tags por custo, não por itens ou instâncias
+
+Você estará em um bom lugar se obtiver 99% do custo etiquetado
+
+## Previsão e Orçamento
+
+A previsão é um dos maiores desafios da nuvem. Existem muitas incógnitas. Tradicionalmente, 80% dos custos de TI eram fixos, principalmente depreciação. Portanto, se você errou 100% em suas estimativas de variáveis, você estava no máximo 20% variante do orçamento. Agora, 80% dos seus custos de TI são variáveis. Se você estiver 50% errado, você é 40% variante!
+
+Rastrear 4x@4x.png
+Rastreamento  - Previsão baseada em estimativas manuais ou modelos do ano passado mais
+
+Caminhe 4x@4x.png
+Walk  - Previsão baseada no uso passado em um aplicativo ou em uma escala de ambiente
+
+Execute 4x@4x.png
+Executar  – Previsão granular por serviço com acompanhamento diário e atualização de valores reais, incluindo descontos, amortização e custo compartilhado
+
+O orçamento é subestimado. Os orçamentos não precisam ser orçamentos oficiais. Você pode estabelecer "orçamentos de regra prática" para cada equipe/visualização em que alguém é responsável pelos gastos, definir limites de alerta para alertas e saber quais são seus padrões de gastos diários/semanais/mensais. Isso criará uma base para sua estimativa futura. Você ficará melhor no orçamento se fizer isso semanalmente e avaliar seus resultados. Previsão e orçamento são habilidades como quaisquer outras. Pratique agora, antes do ciclo orçamentário anual, para ter uma ideia e começar a desenvolver suas habilidades. 
+
+### Recursos
+
+Previsão
+
+A previsão é a prática de prever gastos futuros, geralmente com base em uma combinação de gastos históricos e uma avaliação de planos futuros, entendendo como as mudanças futuras na infraestrutura em nuvem e no ciclo de vida dos aplicativos podem impactar os orçamentos atuais e influenciar o planejamento orçamentário e futuras decisões de investimento em nuvem.
